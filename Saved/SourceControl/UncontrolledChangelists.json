@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/seanr/OneDrive/Desktop/whatup/school/cmpm_171/Archipelago/Archipelago/Content/WB_Crosshair.uasset",
-				"C:/Users/seanr/OneDrive/Desktop/whatup/school/cmpm_171/Archipelago/Archipelago/Content/MovementTest/Actors/MyCharacter.uasset",
-				"C:/Users/seanr/OneDrive/Desktop/whatup/school/cmpm_171/Archipelago/Archipelago/Content/WB_Dash1.uasset",
-				"C:/Users/seanr/OneDrive/Desktop/whatup/school/cmpm_171/Archipelago/Archipelago/Content/the_dude.uasset",
 				"C:/Users/seanr/OneDrive/Desktop/whatup/school/cmpm_171/Archipelago/Content/MovementTest/TestMap.umap",
 				"C:/Users/Kingm/OneDrive/Documents/Unreal Projects/TestMovement/Content/TestMap.umap",
 				"C:/Users/Kingm/OneDrive/Documents/Unreal Projects/TestMovement/Content/Actors/MyCharacter.uasset",
