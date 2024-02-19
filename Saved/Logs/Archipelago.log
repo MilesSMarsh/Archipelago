@@ -1,3 +1,4 @@
+
 ﻿Log file open, 02/17/24 18:58:30
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -102,7 +103,8 @@ LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidPermission
-LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin AppleImageUtils
@@ -115,6 +117,8 @@ LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin InputDebugging
 LogPluginManager: Found config from plugin[InputDebugging] Input
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
@@ -145,6 +149,7 @@ LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
 LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting Engine plugin DumpGPUServices
@@ -154,8 +159,7 @@ LogPluginManager: Mounting Engine plugin PerforceSourceControl
 LogPluginManager: Mounting Engine plugin PixWinPlugin
 LogPluginManager: Mounting Engine plugin PlasticSourceControl
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
-LogPluginManager: Mounting Engine plugin PluginUtils
-LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
 LogPluginManager: Mounting Engine plugin SubversionSourceControl
 LogPluginManager: Mounting Engine plugin TextureFormatOodle
@@ -164,6 +168,8 @@ LogPluginManager: Mounting Engine plugin TraceDataFilters
 LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin UObjectPlugin
 LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin OnlineBase
@@ -278,6 +284,11 @@ LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+LogWindows: File 'WinPixGpuCapturer.dll' does not exist
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.3-CL-29314046
 LogInit: Engine Version: 5.3.2-29314046+++UE5+Release-5.3
@@ -2317,3 +2328,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.18-03.44.36:254][482]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.02.18-03.44.36:285][482]LogExit: Exiting.
 [2024.02.18-03.44.36:344][482]Log file closed, 02/17/24 19:44:36
+
