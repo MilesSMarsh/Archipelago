@@ -47,7 +47,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
+# Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -56,6 +56,8 @@ Build/*
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
+!Plugins/TwitchInteractionUE5.3-main/Binaries
+!Plugins/TwitchInteractionUE5.3-main/Binaries/Win64/UnrealEditor-TwitchInteraction.dll
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
