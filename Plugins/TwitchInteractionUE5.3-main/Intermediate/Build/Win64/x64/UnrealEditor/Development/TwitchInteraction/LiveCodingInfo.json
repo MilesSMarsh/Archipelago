@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TwitchInteraction.cpp.obj": [
+			"TwitchAuthentication.gen.cpp.obj",
+			"TwitchChat.gen.cpp.obj",
+			"TwitchInteraction.init.gen.cpp.obj",
+			"TwitchPubSub.gen.cpp.obj",
+			"TwitchAuthentication.cpp.obj",
+			"TwitchChat.cpp.obj",
+			"TwitchInteractionUE.cpp.obj",
+			"TwitchPubSub.cpp.obj"
+		]
+	}
+}

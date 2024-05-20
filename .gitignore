@@ -56,8 +56,6 @@ Build/*
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
-!Plugins/TwitchInteractionUE5.3-main/Binaries
-!Plugins/TwitchInteractionUE5.3-main/Binaries/Win64/UnrealEditor-TwitchInteraction.dll
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
@@ -74,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+!Plugins/TwitchInteractionUE5.3-main/
+!Plugins/TwitchInteractionUE5.3-main/**

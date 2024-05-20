@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TwitchInteraction.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\samue\OneDrive\Desktop\Archipelagottt\Intermediate\Build\Win64\x64\ArchipelagoEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\samue\OneDrive\Desktop\Archipelagottt\Plugins\TwitchInteractionUE5.3-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwitchInteraction\Module.TwitchInteraction.cpp.obj"
+"C:\Users\samue\OneDrive\Desktop\Archipelagottt\Plugins\TwitchInteractionUE5.3-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwitchInteraction\Default.rc2.res"
+/OUT:"C:\Users\samue\OneDrive\Desktop\Archipelagottt\Plugins\TwitchInteractionUE5.3-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwitchInteraction\UnrealEditor-TwitchInteraction.lib"
