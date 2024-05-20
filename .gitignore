@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 !Plugins/TwitchInteractionUE5.3-main/
 !Plugins/TwitchInteractionUE5.3-main/**
+!Binaries/
+!Binaries/**
