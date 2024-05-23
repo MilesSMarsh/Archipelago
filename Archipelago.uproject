@@ -34,6 +34,10 @@
 		{
 			"Name": "SunPosition",
 			"Enabled": true
+		},
+		{
+			"Name": "CineCameraRigs",
+			"Enabled": true
 		}
 	]
 }
