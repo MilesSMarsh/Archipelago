@@ -1,0 +1,1324 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Localazy (https://localazy.com)\n"
+"Project-Id-Version: ArchipelagoLocalization\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: /Game/Twitch/TwitchWidget.TwitchWidget_C:WidgetTree.TextBlock_0.Text
+msgctxt ",6B85126643E9F010A13785B2F2233FF6"
+msgid "!explode :: launches the player     !dashback :: gives dashes    !smalldash :: shrinks the player's dash    \r\n!flip :: flips the viewport                   !heal :: heals the player         !bigdash ::grows the player's dash\r\n!nodash :: removes dashes             !slow :: slows the player        !upgrade :: spawns an upgrade for the player   !orbtrail :: spawns orbs"
+msgstr "!explode :: プレイヤーを打ち上げます !dashback :: ダッシュを与えます !smalldash :: プレイヤーのダッシュを縮小します !flip :: ビューポートを反転します !heal :: プレイヤーを回復します !bigdash ::growsプレイヤーのダッシュ !nodash :: ダッシュを削除します !slow :: プレイヤーを遅くします !upgrade :: プレイヤーのアップグレードを生成します !orbtrail :: オーブを生成します"
+
+#: /Game/UI/WB_Crosshair.WB_Crosshair_C:WidgetTree.DefensePercent.Text
+msgctxt ",26DB21F54F9B388D79739183E34F946C"
+msgid "0%"
+msgstr "0％"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_19.Text
+msgctxt ",6417BFF4477F4408C950DB9E9BC4E7E8"
+msgid "1"
+msgstr "1"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.VolumeValue_1.Text
+msgctxt ",8514EA1F472E0DD24E07D6A43CD326BD"
+msgid "1"
+msgstr "1"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_18.Text
+msgctxt ",8D238BAA487DC473BE62569B79D838A5"
+msgid "1"
+msgstr "1"
+
+#: /Game/UI/WB_Crosshair.WB_Crosshair_C:WidgetTree.TextBlock_0.Text
+msgctxt ",2C244F6741F1E3A4355E94AF4DFFFBDD"
+msgid "100/100"
+msgstr "100/100"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_9.Text
+msgctxt ",F2CD72A148F70101067F519ABB4DA4AA"
+msgid "1. Click this link"
+msgstr "1. このリンクをクリックしてください"
+
+#: /Game/UI/WB_Crosshair.WB_Crosshair_C:WidgetTree.DamageNum.Text
+msgctxt ",5706CA1C824D4B7F457FBAABC4FB0373"
+msgid "20"
+msgstr "20"
+
+#: /Game/Actors/Enemy/Dummy/WB_DamageIndicator.WB_DamageIndicator_C:WidgetTree.TextBlock_53.Text
+msgctxt ",97E69AC843F1F1B12B8E29A4B45780B3"
+msgid "20"
+msgstr "20"
+
+#: /Game/weapons/TextDamage.TextDamage_C:ExecuteUbergraph_TextDamage [Script Bytecode]
+msgctxt ",A3C2F7CB4E16CE50753FEF82B0181496"
+msgid "20"
+msgstr "20"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_10.Text
+msgctxt ",6C08991A4CBAEEB4CB28C69AB0613426"
+msgid "2. Click on register new application"
+msgstr "2. 新規アプリケーションの登録をクリック"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_11.Text
+msgctxt ",827D04794F8A84B8964FFBB1896DC44D"
+msgid "3. Give your application a unique name (can be anything)"
+msgstr "3. アプリケーションに一意の名前を付けます（任意の名前でも可）"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_12.Text
+msgctxt ",FF4B462042AFB4B77516A19F0C18342E"
+msgid "4. Add the below website to your \"OAuth Redirect URLs\""
+msgstr "4. 以下のウェブサイトを「OAuth リダイレクト URL」に追加します。"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_14.Text
+msgctxt ",1C87A29A4965B963A28CACA7246ED50B"
+msgid "5. For category choose game integration, and check \r\npublic"
+msgstr "5. カテゴリはゲーム統合を選択し、公開をチェックします"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_15.Text
+msgctxt ",DE7D2EE24BCF15897B9D4B80AE47EA62"
+msgid "6.  After creating, you'll be able to click \"manage\" on \r\nthe application and scroll down to view clientID."
+msgstr "6. 作成後、アプリケーションで「管理」をクリックし、下にスクロールしてクライアントIDを表示できるようになります。"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_16.Text
+msgctxt ",6B3FDD05459EC1F10F62D59388584A8B"
+msgid "7. Type your username and copy and paste your \r\nclientID and then check the \"Twitch On/Off\" box"
+msgstr "7. ユーザー名を入力し、クライアントIDをコピーして貼り付け、「Twitchオン/オフ」ボックスをチェックします。"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_17.Text
+msgctxt ",9F62AEAA453986330257E193176A02C9"
+msgid "8. Press enter, and then when you start playing the game \r\nit should work"
+msgstr "8. Enterキーを押してゲームを開始すると、正常に動作するはずです。"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.FOVLevel_1.Text
+msgctxt ",6226150C449E1E00CA0A4AB9AF9767B3"
+msgid "90"
+msgstr "90"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.FOVValue.Text
+msgctxt ",FCD974B64E6368220FAE75868D4F6E70"
+msgid "90"
+msgstr "90"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_18.Text
+msgctxt ",65729AAF4C67ECC6EC49CAABA8BFA75A"
+msgid "9. If problems arise, please click on and watch the video \r\nlinked above username"
+msgstr "9. 問題が発生した場合は、ユーザー名の上にあるリンクをクリックしてビデオを視聴してください。"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_80.Text
+msgctxt ",40826C854C4BAD0015FED4AB2DC08348"
+msgid "<"
+msgstr "<"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_81.Text
+msgctxt ",49C044474626BC4746C7E7B638B252C1"
+msgid ">"
+msgstr "&gt;"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.G
+msgctxt ",9C7A76AB47ABAA47CC1295BE037E3F4A"
+msgid "AO"
+msgstr "へ"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_48.Text
+msgctxt ",B2131C3B477B5083A97EC99D8CFBC003"
+msgid "ARCHIPELAGO"
+msgstr "諸島"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",05B323094A929DFD31151F88CBED581B"
+msgid "Accessibility"
+msgstr "アクセシビリティ"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock_1.Text
+msgctxt ",08602D374424C5BA529A1DB3FF918947"
+msgid "Accessibility"
+msgstr "アクセシビリティ"
+
+#: /Game/UI/AccessibilityMenu.AccessibilityMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",A07248994562150C64C5089EF80748A1"
+msgid "Accessibility"
+msgstr "アクセシビリティ"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_9.DisplayName
+msgctxt ",546700954BCC76EEFD0D2498E27723B6"
+msgid "Accessible movement"
+msgstr "アクセシブルな動き"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.R
+msgctxt ",C81A2C31431F3F21405B8BA5A5795185"
+msgid "Anisotropic"
+msgstr "異方性"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_82.Text
+msgctxt ",0CE011AE4F35535277A5CEB2300D0D5A"
+msgid "Apply"
+msgstr "適用する"
+
+#: /Game/Actors/Enemy/Archer/WB_Archer_Health.WB_Archer_Health_C:WidgetTree.TextBlock_0.Text
+msgctxt ",7F8B9412472B9CC7681E558FE2A78EBB"
+msgid "Archer"
+msgstr "射手"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_11.DisplayName
+msgctxt ",FA2EF1E34F7691D050EAEBBA0C3B8830"
+msgid "Attack"
+msgstr "攻撃"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_States.E_AI_States.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",806107524AA5938ED30B0FBE5074C4C6"
+msgid "Attacking"
+msgstr "攻撃"
+
+#: /Game/UI/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_60.Text
+msgctxt ",D0E3153B4D1DB99B7BC487A93D434E90"
+msgid "Back"
+msgstr "戻る"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_2.DisplayName
+msgctxt ",BEA6268244CAD655C6ED77BE96F940F0"
+msgid "Backward"
+msgstr "後方"
+
+#: /Game/UI/WB_Boss_Health.WB_Boss_Health_C:WidgetTree.TextBlock_0.Text
+msgctxt ",CCBD20D84BD462657BD0F0B58F7332B1"
+msgid "Boss"
+msgstr "ボス"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_2.Text
+msgctxt ",E3E543E84AF517BDDE4FE3A1A444275C"
+msgid "Brandon Jackson"
+msgstr "ブランドン・ジャクソン"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_252.Text
+msgctxt ",B3143B5E4CEB2B8E73F0528857900641"
+msgid "Bug Report"
+msgstr "バグレポート"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_15.NewTextRenderComponent.Text
+msgctxt ",16B1931D430AD7828E33D4BB3547E6C4"
+msgid "By holding down right click <br>before letting go, you can enter <br>bullet time before dashing, but <br>be careful as this drains your stamina"
+msgstr "右クリックを押したまま<br>手放す前に、<br>ダッシュ前の弾丸時間ですが、<br>スタミナが消耗するので注意してください"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_21.NewTextRenderComponent.Text
+msgctxt ",7C9274104D781B760AD4E68551CAAA2C"
+msgid "By repeatedly jumping while <br>holding down \"W\", you can <br>gain large amounts of speed"
+msgstr "繰り返しジャンプすることで<br>「W」を押したままにすると<br>大幅なスピードアップ"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_1.Text
+msgctxt ",2A5443034F931950182F85AB10476E2C"
+msgid "CONTROLS"
+msgstr "コントロール"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.G
+msgctxt ",F9BE6F6C4A009273A21841B630210109"
+msgid "ClearCoat"
+msgstr "クリアコート"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.R
+msgctxt ",6E0FE12D45AB3B05A7FAB89D34C752FC"
+msgid "ClearCoatRoughness"
+msgstr "クリアコートルゴシテ"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_8.Text
+msgctxt ",CFA350884417D73F083393B3CC71D56F"
+msgid "Click, Attack"
+msgstr "クリック、攻撃"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",6E98655846931EE65339F5B58AB69848"
+msgid "ClientID"
+msgstr "クライアントID"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock.Text
+msgctxt ",7D291B054443B9C7E5AFDDB2BC1938EC"
+msgid "Color Blindness"
+msgstr "色覚異常"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Boss/BossCombos.BossCombos.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",A04D81A043F872742CBC2EB693D095F1"
+msgid "Combo1"
+msgstr "コンボ1"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Boss/BossCombos.BossCombos.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",500AD7D34EFF585420CC2A84F1919F78"
+msgid "Combo2"
+msgstr "コンボ2"
+
+#: /Game/3DModel/Chest/ChestUI.ChestUI_C:WidgetTree.TextBlock_0.Text
+msgctxt ",55BE857742A98D38AD8F299F559C5D29"
+msgid "Common"
+msgstr "一般"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_6.DisplayCategory
+msgctxt ",6850F00C4386009E7A023F891DF8BB2F"
+msgid "Controller"
+msgstr "コントローラ"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_5.DisplayCategory
+msgctxt ",D08F62DC4485AAECE22AE289F506976A"
+msgid "Controller"
+msgstr "コントローラ"
+
+#: /Game/UI/TutorialScreen.TutorialScreen_C:WidgetTree.TextBlock_48.Text
+msgctxt ",DD11D3854B40C27B215626992FE898D6"
+msgid "Controls"
+msgstr "コントロール"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_48.Text
+msgctxt ",5CC2A9544E7B3CEA23871BAAD7245BB0"
+msgid "Credits"
+msgstr "クレジット"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",EE9B050E495A7D80ADD4C0B327BACD80"
+msgid "Credits"
+msgstr "クレジット"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_Senses.E_AI_Senses.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",04F9A5AE4A646C81A42E2ABDB68FD442"
+msgid "Damage"
+msgstr "ダメージ"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_9.Text
+msgctxt ",50FFA2DE44A3502390CF17A29C579701"
+msgid "Dash"
+msgstr "ハイフン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_10.DisplayName
+msgctxt ",9874BF7D4FEA492FE215A3A967C3BA2F"
+msgid "Dash"
+msgstr "ダッシュ"
+
+#: /Game/Scenes/Islands.Default__Islands_C.Sign1Text3
+msgctxt ",936794CB4397A14A2E9AB8A491582515"
+msgid "Dash through blue orbs"
+msgstr "青いオーブを突き抜ける"
+
+#: /Game/Scenes/Old_Tutorial.Default__Old_Tutorial_C.Sign1Text3
+msgctxt ",EB6C010742538D89FE52CB9D60DC2390"
+msgid "Dash through blue orbs"
+msgstr "青いオーブを突き抜ける"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_States.E_AI_States.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",9D1E6DEC4DC790E0939F35B4CDED77C4"
+msgid "Dead"
+msgstr "死"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",70C4564B4D08FF3A51A682A18513CC2C"
+msgid "Delete Login Save"
+msgstr "削除 ログイン 保存"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",1D14C55F104FCF28EB7E5481F5F6D2BE"
+msgid "DescriptionOnly"
+msgstr "説明のみ"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_5.Text
+msgctxt ",9BB2BAFC4CC37C761BD1AA817E579410"
+msgid "Deuteranope"
+msgstr "デュテラノペ"
+
+#: /Game/Migrate/UI/UseDropHUD.UseDropHUD_C:WidgetTree.TextBlock_203.Text
+msgctxt ",A33C828849AD13A927F666876906ADED"
+msgid "Drop"
+msgstr "落とす"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_120.Text
+msgctxt ",5CC9CD564EB4EE36D8AA09ABC0012286"
+msgid "Enabled"
+msgstr "有効"
+
+#: /Game/UI/AccessibilityMenu.AccessibilityMenu_C:WidgetTree.TextBlock_238.Text
+msgctxt ",CF134D5B41303814D1CF14ACAAE2058D"
+msgid "Enabled"
+msgstr "有効"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",083512D045474B90C9DCD698DFC3CCAE"
+msgid "Enter"
+msgstr "入力"
+
+#: /Game/DamageSystem/E_DamageType.E_DamageType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",61D76BB949764F93E9E1528EB05129F2"
+msgid "Environment"
+msgstr "環境"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_1 [Script Bytecode]
+msgctxt ",4A57BAC044A8CB9757F5FB8764F28D74"
+msgid "Epic"
+msgstr "すごい"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",91D540CE451A59031665A9ABC535CAB3"
+msgid "Epic"
+msgstr "すごい"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",C917FDE143460D4BB7A468A3E3AD578C"
+msgid "Epic"
+msgstr "すごい"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_10.Text
+msgctxt ",700DD788493BCAD5ED648C9A958F20AF"
+msgid "Equip/Unequip Weapon"
+msgstr "武器の装備/装備解除"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_12.DisplayName
+msgctxt ",73B768D74FE19E0A23CB8D932D243751"
+msgid "Escape"
+msgstr "エスケープ"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_1.Text
+msgctxt ",41768A754B699CD0A4C193A26903079E"
+msgid "Ewin Mathew"
+msgstr "イーウィン・マシュー"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",E50C55984437B3B9A05E92A64CAB409E"
+msgid "Explode is on Cooldown"
+msgstr "爆発はクールダウン中です"
+
+#: /Game/DamageSystem/E_DamageType.E_DamageType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",467C43634222E3A94301A692854448A8"
+msgid "Explosion"
+msgstr "爆発"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_20.Text
+msgctxt ",EEA9F2E649C6688D6B93C494AEB660B5"
+msgid "FOV"
+msgstr "視野"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",97B9071F46128140488F6DAC32BEDFE1"
+msgid "Flip is on Cooldown"
+msgstr "フリップはクールダウン中です"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_1.DisplayName
+msgctxt ",C5F29D7A41DAD22546B717914503BBD3"
+msgid "Forward"
+msgstr "前方"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_States.E_AI_States.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",753685D04A504C734B7569BBE9FCF9B5"
+msgid "Frozen"
+msgstr "凍った"
+
+#: /Game/UI/GameOverWB.GameOverWB_C:WidgetTree.TextBlock_2.Text
+msgctxt ",B3C025EC48F1E30DFBD5118F5E2B840A"
+msgid "Game Over"
+msgstr "ゲームオーバー"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_0.Text
+msgctxt ",6CAF5A654D63EB977CE464823C80D014"
+msgid "Game Paused"
+msgstr "ゲームが一時停止されました"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock_2.Text
+msgctxt ",9AAB4BE64427D5970D956180958764E2"
+msgid "Game Paused"
+msgstr "ゲームが一時停止されました"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_20.Text
+msgctxt ",980FBED74D1CDD45A4368BB776A3E79D"
+msgid "Gameplay FOV:"
+msgstr "ゲームプレイのFOV:"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_1.Text
+msgctxt ",C2B952E54FF28985E9C546BF254EC696"
+msgid "Go Back"
+msgstr "戻る"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_83.Text
+msgctxt ",EDBD3DBE465684EF6234F8BF37B5B086"
+msgid "Go Back"
+msgstr "戻る"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_4.Text
+msgctxt ",CC48479D4B8CB81936642997683BBBB7"
+msgid "Graphics"
+msgstr "グラフィックス"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",263CAD6F44161792B15D94AFD49A6383"
+msgid "Heal is on Cooldown"
+msgstr "回復はクールダウン中です"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_Senses.E_AI_Senses.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",D6B308084B898323849EE69E0C4EF95C"
+msgid "Hearing"
+msgstr "聴覚"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock_5.Text
+msgctxt ",6AC7C6814925B3C2722E94B03C262E43"
+msgid "Help"
+msgstr "補佐官"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",9F890EE14B375245D15BD489B56267EF"
+msgid "High"
+msgstr "hoge"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_1 [Script Bytecode]
+msgctxt ",E9EC85BB42A08C049B15FDBA3830438B"
+msgid "High"
+msgstr "瞳"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",F5BFAF2C476D92CCEEDCCD83A38B3B46"
+msgid "High"
+msgstr "瞳"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_2.Text
+msgctxt ",8DB617A240828E338BCE5FAC3C204438"
+msgid "Hold, Move"
+msgstr "待って、移動してください"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_MovementSpeed.E_MovementSpeed.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",BA01873943FEFA5110D4E9801E6E41DD"
+msgid "Idle"
+msgstr "アイドル"
+
+#: /Game/Migrate/UI/Inventory.Inventory_C:WidgetTree.PauseText.Text
+msgctxt ",0099A8AE40EB2C6C9FB4D8ACA07C984F"
+msgid "Inventory Opened"
+msgstr "在庫がオープンしました"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_States.E_AI_States.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",FFAB983B4E4672292DB6DAB3D804AE5E"
+msgid "Investigating"
+msgstr "調査中"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_MovementSpeed.E_MovementSpeed.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",57BCCDF946481FE08342D5B673B2604A"
+msgid "Jogging"
+msgstr "ジョギング"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_6.DisplayName
+msgctxt ",5784956E4734D9712467FBAACFE2727A"
+msgid "Jump"
+msgstr "ジャンプ"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_0.DisplayName
+msgctxt ",78752ABD4498A62999664E8FEC79C6DB"
+msgid "Jump"
+msgstr "ジャンプ"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_13.Text
+msgctxt ",E566333F4365F6BBCADE9CBB9475C556"
+msgid "Jump"
+msgstr "ジャンプ"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/WB_Knight_Health.WB_Knight_Health_C:WidgetTree.NameTag.Text
+msgctxt ",3F5F73E2479E19F8456751AAF2DE0C81"
+msgid "Knight"
+msgstr "騎士"
+
+#: /Game/DamageSystem/E_DamageResponse.E_DamageResponse.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",B2D7FC5E42F3373470B374AD7668C17C"
+msgid "KnockBack"
+msgstr "ノックバック"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_13.Text
+msgctxt ",33A7E2074BED15807DD369BECFF1F57B"
+msgid "Language"
+msgstr "言語"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_12.Text
+msgctxt ",4205A23946D444DDACC1ECA807E46608"
+msgid "Language"
+msgstr "言語"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_3.DisplayName
+msgctxt ",E90FF7B44DDA3C0A7CEDF783C645454E"
+msgid "Left"
+msgstr "左"
+
+#: /Game/Scenes/Old_Tutorial.Default__Old_Tutorial_C.Sign1Text1
+msgctxt ",8BCA57074FB8387EA60C7E9B4B0C1D21"
+msgid "Left click to attack"
+msgstr "左クリックで攻撃"
+
+#: /Game/Scenes/Islands.Default__Islands_C.Sign1Text1
+msgctxt ",F744293F4627109BDF81EDAC2ADECE55"
+msgid "Left click to attack"
+msgstr "左クリックで攻撃"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+msgctxt ",7AB2816D43555A1A5F21F183C13214A5"
+msgid "Left click to attack <br> You can click multiple<br> times to combo"
+msgstr "左クリックで攻撃<br>複数クリックできます<br>コンボ回数"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",269BF65945503F2000D89AA3CE46F702"
+msgid "Link to Login/Setup Tutorial Video"
+msgstr "ログイン/セットアップチュートリアルビデオへのリンク"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",2C89624A45E51CE02E40809796FE830A"
+msgid "Login Tutorial"
+msgstr "ログインチュートリアル"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_8.DisplayCategory
+msgctxt ",343436F0444F729027BBB08438C89B39"
+msgid "Look"
+msgstr "見て"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_8.DisplayName
+msgctxt ",6264C0484120CD6468348A8F6110DEE9"
+msgid "Look"
+msgstr "見て"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_7.DisplayName
+msgctxt ",837B1C064FCB7AC9CAD28F81460877C9"
+msgid "Look"
+msgstr "見て"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_7.DisplayCategory
+msgctxt ",94B48D0D499D34DC4EEC8CBF5A8C3FB8"
+msgid "Look"
+msgstr "見て"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",02C71241433319F95EAB7CB0B23C4E72"
+msgid "Low"
+msgstr "Low"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_1 [Script Bytecode]
+msgctxt ",09BEF01E48CE6B823BC1949F12FFD0C6"
+msgid "Low"
+msgstr "弱い"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",17E6FD3F40FFF0BB1CEE1AA23AA95488"
+msgid "Low"
+msgstr "弱い"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_3.Text
+msgctxt ",D04C4B8040609D62A6647C8888801ADF"
+msgid "Mark Mcateer"
+msgstr "マーク・マカティア"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",38E2C78C4B798E2FDF22CCA4F2A75B47"
+msgid "Medium"
+msgstr "中くらい"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",C82BE51248D55A6C1BC9A8B1DA6C4EE1"
+msgid "Medium"
+msgstr "平均"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_1 [Script Bytecode]
+msgctxt ",DDDDDE6B42F364C47985F19EFCE05ABC"
+msgid "Medium"
+msgstr "平均"
+
+#: /Game/DamageSystem/E_DamageType.E_DamageType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",74286C354E7C3E084A1DDFAF4AA3AE0F"
+msgid "Melee"
+msgstr "近接攻撃"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.B
+msgctxt ",A8063FF24DD22F4932960B88103C6E75"
+msgid "MetalPaintMask"
+msgstr "メタルペイントマスク"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.R
+msgctxt ",897A07A048BCF1BB3FB2A1BA93E50F17"
+msgid "Metallic"
+msgstr "メタリック"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_14.Text
+msgctxt ",540AB08A40FE13EED6774C8918CFE064"
+msgid "Miles Marsh"
+msgstr "マイルズ・マーシュ"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_18.Text
+msgctxt ",1C41DED94470164C9859DD9D2021E8D4"
+msgid "Mouse Sensitivity:"
+msgstr "マウス感度："
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_17.Text
+msgctxt ",99090D834B253F060EB5E5972AA9F7A0"
+msgid "Mouse Sensitivity:"
+msgstr "マウス感度："
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_11.Text
+msgctxt ",7A01658642B6B44CF71FBEBBA9D36BDA"
+msgid "Move"
+msgstr "動く"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock_14.Text
+msgctxt ",E362724C4DEB583A399E5DAE86C5FD1B"
+msgid "Move Camera"
+msgstr "カメラを移動する"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_5.DisplayName
+msgctxt ",CA41BC484AAC6122D7FF6A80F4CB11E2"
+msgid "Movement"
+msgstr "動き"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_Senses.E_AI_Senses.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",23F747BF483A93EDEFAEB8B232698BD7"
+msgid "None"
+msgstr "なし"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_4.Text
+msgctxt ",775DA0B64DEF460D81E9CBA0FA058D55"
+msgid "None"
+msgstr "なし"
+
+#: /Game/DamageSystem/E_DamageResponse.E_DamageResponse.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",8AC75DBE49F67D79BEA22FBA562C6F89"
+msgid "None"
+msgstr "なし"
+
+#: /Game/DamageSystem/E_DamageType.E_DamageType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",9C1C9DF94599B585E9542BA63B47DA88"
+msgid "None"
+msgstr "なし"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_2 [Script Bytecode]
+msgctxt ",6CE558974F2B93CC7BE59EA18CF74B3C"
+msgid "Off"
+msgstr "無効"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_2 [Script Bytecode]
+msgctxt ",CC6A804642D5751D332EBB9CEFAD9654"
+msgid "Off"
+msgstr "オフ"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_2 [Script Bytecode]
+msgctxt ",EFFCEDD74F1B87FDE1BDFAB69943BC49"
+msgid "Off"
+msgstr "無効"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_2 [Script Bytecode]
+msgctxt ",3F2989B14BB72A8D200AF68296AC50B0"
+msgid "On"
+msgstr "有効"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_2 [Script Bytecode]
+msgctxt ",93C7DD0B4C357A20013058B4E967F3FA"
+msgid "On"
+msgstr "有効"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_2 [Script Bytecode]
+msgctxt ",CF5483214D3F02784721099F389A0B20"
+msgid "On"
+msgstr "の上"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_23.NewTextRenderComponent.Text
+msgctxt ",109FDBD043DE292AE36A3FB29EF377EB"
+msgid "Once you've beaten the boss, <br>you'll be able to switch between <br>weapons by pressing 1 and 2."
+msgstr "ボスを倒したら、<br>切り替えることができます<br>1と2を押して武器を選択します。"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_3.Text
+msgctxt ",887ECF0041A706DC7486E4B557B7C80A"
+msgid "One Handed"
+msgstr "片手"
+
+#: /Game/UI/AccessibilityMenu.AccessibilityMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",9B6F294C4CEE84953612338FD723BEA1"
+msgid "One Handed"
+msgstr "片手"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_10.DisplayCategory
+msgctxt ",036E0A1E46A4541608B5068C0CFBA373"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_11.DisplayCategory
+msgctxt ",2DA2165E4F73604541FE40BBECE110AC"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/UI/KeyBinding.KeyBinding_C:ExecuteUbergraph_KeyBinding [Script Bytecode]
+msgctxt ",57349470466BC91744628B9B3E6AFBEE"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_4.DisplayCategory
+msgctxt ",5B0591D24629F62E097A3FA3C515860E"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_0.DisplayCategory
+msgctxt ",738F79C74B761C2E45B41994D35D08DF"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_1.DisplayCategory
+msgctxt ",C0E11C7E49091C35826C9BBF36F36BB2"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_12.DisplayCategory
+msgctxt ",D18434134EE6470E70DF54B735E74D1F"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_2.DisplayCategory
+msgctxt ",DEDDE8EF437765E7E717EDA87D6675A0"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_3.DisplayCategory
+msgctxt ",EC902F00458F3141EB50F1A370212DB9"
+msgid "PC"
+msgstr "パソコン"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_States.E_AI_States.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",4CBD81FB4EE54858907B9ABE6F1065AC"
+msgid "Passive"
+msgstr "受け身"
+
+#: /Game/UI/ControlsPause.ControlsPause_C:WidgetTree.TextBlock.Text
+msgctxt ",15A938E144516177AA37238C265D95CB"
+msgid "Pause"
+msgstr "一時停止"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_22.NewTextRenderComponent.Text
+msgctxt ",E65EDA2D44034A7030546E9261C5A6ED"
+msgid "Picking this up will allow you <br>to try out the bow. To unlock <br>the bow in the main level you <br>have to beat the boss once."
+msgstr "これを手に入れると<br>弓を試してみましょう。ロックを解除するには<br>メインレベルの弓<br>ボスを一度倒さなければなりません。"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.B
+msgctxt ",1C7DE49D4CFB880F4CFA349087C1BC0F"
+msgid "PlasticMask"
+msgstr "プラスチックマスク"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",903750254B97A49F7F405E805003F473"
+msgid "Play"
+msgstr "遊ぶ"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_250.Text
+msgctxt ",000DBD3845FD224E0677E5BB80A98B0A"
+msgid "Play with friends!"
+msgstr "友達と遊ぶ！"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+msgctxt ",0D7DF97E4B45D76E05B484B83C983C80"
+msgid "Press ESC to pause <br> the game"
+msgstr "一時停止するにはESCを押してください<br>ゲーム"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+msgctxt ",AB00593F402BDD1A14585DAC52727B81"
+msgid "Pressing Space will allow  <br> you to jump"
+msgstr "スペースキーを押すと<br>ジャンプする"
+
+#: /Game/DamageSystem/E_DamageType.E_DamageType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",0A8397F14582772683536E96708A4187"
+msgid "Projectile"
+msgstr "発射物"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_6.Text
+msgctxt ",B8D952CC435BCD32B68BE4959EF97DDE"
+msgid "Protanope"
+msgstr "第一色覚者"
+
+#: /Game/Migrate/UI/Inventory.Inventory_C:WidgetTree.TextBlock_0.Text
+msgctxt ",8BE0C69D4D120A08CC0870A1D48E93DC"
+msgid "Q"
+msgstr "Q"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",1E1FFB424FB62E7F5BD8DAA8D189F816"
+msgid "Quit"
+msgstr "出発するには"
+
+#: /Game/UI/GameOverWB.GameOverWB_C:WidgetTree.TextBlock_1.Text
+msgctxt ",3B65314F44CC11F21ED68E906D3CE304"
+msgid "Quit"
+msgstr "出発するには"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock_4.Text
+msgctxt ",9EF2596F467186AB4D5B32AF940BB0F6"
+msgid "Quit"
+msgstr "出発するには"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",51AC6AE000463A7777AA9EAB0ED6EDCD"
+msgid "ROund"
+msgstr "ラウンド"
+
+#: /Game/DamageSystem/E_DamageResponse.E_DamageResponse.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",040900544BFB2FB84B504394264CB476"
+msgid "Reaction"
+msgstr "反応"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_113.Text
+msgctxt ",5EF1BC054E79458202C0C3B5CB8D5C97"
+msgid "Rebind Keys"
+msgstr "キーの再バインド"
+
+#: /Game/UI/KeyBindingTemplate2.KeyBindingTemplate2_C:WidgetTree.TextBlock_54.Text
+msgctxt ",80AFB67B461A1204156F45A94C9D4627"
+msgid "Reset"
+msgstr "リセット"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock.Text
+msgctxt ",07DC739F487B86E78554A3BA20271F1B"
+msgid "Resolution"
+msgstr "解決"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock.Text
+msgctxt ",6A31A2764126B81888084880AD6A3E8F"
+msgid "Resolution"
+msgstr "解決"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock_0.Text
+msgctxt ",62263F23466A3D984A0D14A6A151BEEB"
+msgid "Resume"
+msgstr "再開します"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock.Text
+msgctxt ",2E2902E44EC0ADCD7A6A9C96307AF61E"
+msgid "Return To Main Menu"
+msgstr "メインメニューに戻る"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_4.DisplayName
+msgctxt ",5E3DF9414BEA33C51574F098E3D3D748"
+msgid "Right"
+msgstr "右"
+
+#: /Game/Scenes/Islands.Default__Islands_C.Sign1Text2
+msgctxt ",4614CB0347D7B629D8C452AC1A9FD930"
+msgid "Right click to dash"
+msgstr "右クリックしてダッシュ"
+
+#: /Game/Scenes/Old_Tutorial.Default__Old_Tutorial_C.Sign1Text2
+msgctxt ",66158904439E58EF50858E9E1E298F7C"
+msgid "Right click to dash"
+msgstr "右クリックしてダッシュ"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+msgctxt ",5275D70E47D34181452F3780831A6185"
+msgid "Right click to use your  <br> movement ability"
+msgstr "右クリックして<br>移動能力"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",7F228C86394DD00414CDD5AB2ED93D00"
+msgid "RoofOpen"
+msgstr "屋根オープン"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",EE50437ADB43B7A9D6E3D491E26F17D0"
+msgid "RoofwithHole"
+msgstr "屋根付き穴"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",36903A2AB647CA31E6315ABAAED6515D"
+msgid "RoomL"
+msgstr "ルームL"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.B
+msgctxt ",83F09F34474937FADFEF66AC87E969B4"
+msgid "Roughness"
+msgstr "粗さ"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_4.Text
+msgctxt ",A837FBC44302DFB14492CEA53C79BD4B"
+msgid "Samuel Liao"
+msgstr "サミュエル・リャオ"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock.Text
+msgctxt ",A801A79D466E80EF263924A9EE26A16D"
+msgid "Sean Rowley"
+msgstr "ショーン・ローリー"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_States.E_AI_States.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",2DE584824CC642163D7C46BBC79F912C"
+msgid "Seeking"
+msgstr "求める"
+
+#: /Game/UI/PauseMenu_WB.PauseMenu_WB_C:WidgetTree.TextBlock_3.Text
+msgctxt ",3545ED5E487EBF98716F46AE5EDE6128"
+msgid "Settings"
+msgstr "設定"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_48.Text
+msgctxt ",4721AFAD4709084C37BC2E802CAD7C01"
+msgid "Settings"
+msgstr "設定"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",CC52663D4BA3B78D0A2CE189BCBA5B05"
+msgid "Settings"
+msgstr "設定"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_AI_Senses.E_AI_Senses.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",32329967493DE3C156211DB1E58A5BCD"
+msgid "Sight"
+msgstr "視力"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",B1344D1B450A18F5B801478138E9D7C7"
+msgid "Slow is on Cooldown"
+msgstr "スローはクールダウン中です"
+
+#: /Game/Scenes/Old_Tutorial.Default__Old_Tutorial_C.Sign2Text2
+msgctxt ",233A8FA4412ADAB995FA8CBB9A4799D3"
+msgid "Space to jump"
+msgstr "ジャンプするスペース"
+
+#: /Game/Scenes/Islands.Default__Islands_C.Sign2Text2
+msgctxt ",4DB0AF4246ECA3CDF7BDF8807A618F65"
+msgid "Space to jump"
+msgstr "ジャンプするスペース"
+
+#: /Game/Actors/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.G
+msgctxt ",69257E464C83136D5D7DE28FAEFF56E8"
+msgid "Spec"
+msgstr "仕様"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_MovementSpeed.E_MovementSpeed.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",DED2986547C5FBE92DB14BAEA807CE60"
+msgid "Sprinting"
+msgstr "短距離走"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",42A42F81394CCE1E51E362914A1D0E35"
+msgid "SquareL"
+msgstr "スクエアL"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",194770BCDE408365D0E54BA72C02C143"
+msgid "SquareL_FlatWall"
+msgstr "スクエアL_フラットウォール"
+
+#: /Game/DamageSystem/E_DamageResponse.E_DamageResponse.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",C14F0E73478699F9CB38B0B57E7759A2"
+msgid "Stagger"
+msgstr "よろめく"
+
+#: /Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3820A0F6B04D2D6B67097CB8100365EE"
+msgid "Standard"
+msgstr "標準"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",49F726594B1FA94D8C460EA2FF2197C4"
+msgid "Start here!"
+msgstr "ここから始める！"
+
+#: /Game/DamageSystem/E_DamageResponse.E_DamageResponse.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",D4C15C444059151F72AE11997B2BB17F"
+msgid "Stun"
+msgstr "気絶"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_27.NewTextRenderComponent.Text
+msgctxt ",A48E565A442792EF3FBE258E35DC637C"
+msgid "The bow's movement ability <br>grapples you to a point in the <br>air and pulls you towards it."
+msgstr "弓の運動能力<br>あなたをある地点に追い詰める<br>空気を吸い込み、あなたをその方向に引っ張ります。"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+msgctxt ",60A5F83A42D79F228A9FCB9CC4C74964"
+msgid "The chest can be opened <br>by approaching it"
+msgstr "チェストは開けられる<br>近づくことによって"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+msgctxt ",0443E7AD4CDDC5A7B0476BABDE167F1E"
+msgid "The inventory can be <br> opened by pressing Q"
+msgstr "在庫は<br>Qを押すと開く"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+msgctxt ",B03E03FA4AE6427984B9C8A293133E7B"
+msgid "This is a potion that can <br> be clicked on in the <br> inventory to heal you."
+msgstr "これは、<br>クリックすると<br>あなたを癒すためのインベントリ。"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_16.NewTextRenderComponent.Text
+msgctxt ",3D7CA37F404169FE1EF85CB53C22BFFC"
+msgid "This is an enemy spawner. <br> After defeating 3 of the enemies <br>it spawns, you'll be rewarded <br>with a chest."
+msgstr "これは敵のスポナーです。<br>敵3体を倒した後<br>出現すると報酬がもらえます<br>胸付き。"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_17.NewTextRenderComponent.Text
+msgctxt ",1EF7B13041E38B3C0DF704B7495E8369"
+msgid "This is the end of the tutorial. <br>Thank you so much for <br>downloading and playing our game!! <br>Touch the gem to return to the main menu :)"
+msgstr "チュートリアルはこれで終わりです。<br>本当にありがとう<br>私たちのゲームをダウンロードしてプレイしてください!!<br>宝石をタッチするとメインメニューに戻ります :)"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+msgctxt ",DF3CF0EE45BD9D7C0B4DF4A822FC23A7"
+msgid "This permanently increases <br> attack by 10"
+msgstr "これは永久的に増加します<br>10の攻撃"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+msgctxt ",889F0ACA4633C03E47474693CF87764D"
+msgid "This permanently increases <br> defense by 1"
+msgstr "これは永久的に増加します<br>防御1"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+msgctxt ",FA08AD84475527CD9BDC97BF54D9DFC8"
+msgid "This permanently increases <br> health by 20"
+msgstr "これは永久的に増加します<br>20歳までに健康になる"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Boss/BossCombos.BossCombos.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A71094214F8F39035939EA9247B8FA81"
+msgid "ThrowAxe"
+msgstr "スローアックス"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_28.NewTextRenderComponent.Text
+msgctxt ",689C8868467BB8ACC2F224B19A31084D"
+msgid "Touching this will change you <br>back to the sword"
+msgstr "これに触れるとあなたは変わる<br>剣に戻る"
+
+#: /Game/UI/AccessibilityPause.AccessibilityPause_C:WidgetTree.TextBlock_7.Text
+msgctxt ",A57E4EA94969447126F8598E45005E2F"
+msgid "Tritanope"
+msgstr "三眼"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_24.NewTextRenderComponent.Text
+msgctxt ",CCAFF4CD4CE34D0D8A6771A992C65D99"
+msgid "Turn on \"one handed mode\" <br>to be able to move by <br>holding left click."
+msgstr "「片手モード」をオンにする<br>移動できる<br>左クリックしたままにします。"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",A3E03FB44BE0211AD1EE9FB1EAE4A4BD"
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_18.NewTextRenderComponent.Text
+msgctxt ",325B691D4ABB240FD7B435A2F1584D1A"
+msgid "Tutorial Spedrun by Miles (Dev) in 7.28 seconds. If beaten, <br> send proof to archipelagohelp@gmail.com"
+msgstr "チュートリアルスピードランはマイルズ（開発）が7.28秒でクリア。勝てば、<br>証拠をarchipelagohelp@gmail.comまでお送りください。"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",C537A32147E4A901663D5EB590B7E70B"
+msgid "Twitch"
+msgstr "けいれん"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",F55142674E1103390A2766BF0B7C5E3E"
+msgid "Twitch"
+msgstr "けいれん"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",D74D6BD6421DAB6F4B1E7F9D156EB1C8"
+msgid "Twitch On/Off"
+msgstr "Twitch オン/オフ"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:GetText_1 [Script Bytecode]
+msgctxt ",60F6134A4B844C8AA6D2D9B893542558"
+msgid "Ultra"
+msgstr "ウルトラ"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",BA91E69642CD0EB2EFE0FCA571253974"
+msgid "Ultra"
+msgstr "ウルトラ"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:GetText_1 [Script Bytecode]
+msgctxt ",C9A6472D474967B97C06F39196855DF1"
+msgid "Ultra"
+msgstr "ウルトラ"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",935FD34F4F12472B2EF1C9882C20E329"
+msgid "Upgrade is on Cooldown"
+msgstr "アップグレードはクールダウン中です"
+
+#: /Game/Migrate/UI/UseDropHUD.UseDropHUD_C:WidgetTree.TextBlock_90.Text
+msgctxt ",BEC5DF1847A09E3AF6BDEF849BD6FEBF"
+msgid "Use"
+msgstr "使用する"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",A987F3DE470540830DCBE189AC597722"
+msgid "Use WASD to move <br>"
+msgstr "WASDを使って移動する<br>"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+msgctxt ",6F4AEE1143D6711DD00314A00B686A3E"
+msgid "Use the mouse <br> to look around"
+msgstr "マウスを使用する<br>見回す"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",68616B32478DFDB91E3165A0AAF0067C"
+msgid "Username"
+msgstr "ユーザー名"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_21.Text
+msgctxt ",0F846114436895D86F2A1D8A4AF8E175"
+msgid "Volume"
+msgstr "音量"
+
+#: /Game/UI/OptionsMenuWB.OptionsMenuWB_C:WidgetTree.TextBlock_19.Text
+msgctxt ",B2B17138430BD46F7CA634A91807A819"
+msgid "Volume:"
+msgstr "音量："
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_8.Text
+msgctxt ",CA4CB5A04C1AA7E2CE335BAF979A02E7"
+msgid "Vsync"
+msgstr "同期V"
+
+#: /Game/Scenes/Islands.Default__Islands_C.Sign2Text1
+msgctxt ",AEB696F2448A5295822CDF8A7FFF6675"
+msgid "WASD to move"
+msgstr "WASDで移動"
+
+#: /Game/Scenes/Old_Tutorial.Default__Old_Tutorial_C.Sign2Text1
+msgctxt ",F2EFEE56479C5BFB3B43ED80F0E78B0E"
+msgid "WASD to move"
+msgstr "WASDで移動"
+
+#: /Game/Actors/Enemy/AdvancedEnemies/Knight/AI/Enums/E_MovementSpeed.E_MovementSpeed.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",098EE6EA411B0E09769B7CBB7E4E129C"
+msgid "Walking"
+msgstr "ウォーキング"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_14.NewTextRenderComponent.Text
+msgctxt ",F870E24D47E8664B04C5A6B419CE7BA3"
+msgid "When going through orbs, <br>time will slow for a short <br>period to allow you to <br>orient and aim better"
+msgstr "オーブを通過するとき、<br>時間が少し遅くなる<br>期間を許可する<br>より良い方向と狙いを定める"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+msgctxt ",ECBAC6B44A17E953FA4F0B9C1351F6EF"
+msgid "While on the ground, <br> you have 3 dashes"
+msgstr "地上にいる間、<br>ダッシュが3つあります"
+
+#: /Game/UI/OptionsGameplayWB1.OptionsGameplayWB1_C:WidgetTree.TextBlock_14.Text
+msgctxt ",BEAFA474440141C2D8129186766CEC02"
+msgid "WindowMode"
+msgstr "ウィンドウモード"
+
+#: /Game/UI/CreditsMenuWB.CreditsMenuWB_C:WidgetTree.TextBlock_5.Text
+msgctxt ",180E65C145AEB6A2E3C65DAD7C0F530D"
+msgid "Xing Zhong"
+msgstr "シン・ゾン"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_20.NewTextRenderComponent.Text
+msgctxt ",E496490440D84B2A61C664A22BA2C37A"
+msgid "You can also do damage<br> to enemies by dashing <br>through them"
+msgstr "ダメージを与えることもできる<br>敵に向かって突進する<br>彼らを通して"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_26.NewTextRenderComponent.Text
+msgctxt ",34582ECC4B60FCECC6A752B310C803A0"
+msgid "You can hold down left click to <br>charge up to 5 arrows to fire <br>at once"
+msgstr "左クリックを押したままにすると<br>発射するには最大5本の矢をチャージする<br>すぐに"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_19.NewTextRenderComponent.Text
+msgctxt ",0B10DA7F4C1AB509241549A3DBB49943"
+msgid "You can press \"e\" to <br>sheathe and unsheathe <br>your sword"
+msgstr "「e」を押すと<br>鞘に収める、抜く<br>あなたの剣"
+
+#: /Game/Scenes/Islands.Islands:PersistentLevel.TextRenderActor_12.NewTextRenderComponent.Text
+msgctxt ",301E992E4FCE78C9BF9CD2A7F6B7CDEC"
+msgid "You can replennish <br>dashes in air by going <br>through orbs or enemies"
+msgstr "補充することができます<br>空中を疾走して<br>オーブや敵を通して"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",1144BB98473A440685D25FABFDF220E0"
+msgid "You have been graced by a dev"
+msgstr "あなたは開発者に恵まれました"
+
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_251.Text
+msgctxt ",9D2918B440E09E4A8C6667A1A8E1F07C"
+msgid "(Feature in beta)"
+msgstr "(ベータ版の機能)"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",F92FED8145DB0DC26A6C8B8AE1376897"
+msgid "bigdash is on Cooldown"
+msgstr "bigdash はクールダウン中です"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",D556C86C4E8DFDD9FF84478389DD3D81"
+msgid "dashback is on Cooldown"
+msgstr "ダッシュバックはクールダウン中です"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_13.Text
+msgctxt ",CC8EBE844739F49D73A847B7444FCEE5"
+msgid "http://localhost:8080/Auth"
+msgstr "http://localhost:8080/認証"
+
+#: /Game/UI/TwitchMenu.TwitchMenu_C:WidgetTree.TextBlock_8.Text
+msgctxt ",C8CC41B845AA3214B9D66590AB5E9CDC"
+msgid "https://dev.twitch.tv/console"
+msgstr "詳しくはこちら"
+
+#: /Game/Actors/ThirdPerson/Input/IMC_Default.IMC_Default:PlayerMappableKeySettings_9.DisplayCategory
+msgctxt ",83253BFE4006EA5AF8E0D0ACCF70DD29"
+msgid "movement"
+msgstr "動き"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",2E36BF294F8B0A2F83CB2AB86B83D5FF"
+msgid "nodash is on Cooldown"
+msgstr "nodashはクールダウン中です"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",2C6D1A4749BE85681621E488E4325E4B"
+msgid "orbtrail is on Cooldown"
+msgstr "orbtrailはクールダウン中です"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",FF46385D4D8F5F5FFB7B83916367C11E"
+msgid "smalldash is on Cooldown"
+msgstr "smalldash はクールダウン中です"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",966F5E8B45A41DAE8A68BFB4A24FA97A"
+msgid "switch is on Cooldown"
+msgstr "スイッチがオンになっています クールダウン"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",434B88C846A9F9923C61A8A52E063FB9"
+msgid "{name} has flipped you"
+msgstr "{name}あなたをひっくり返した"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",6806A4C9441213439519FB9ABD490527"
+msgid "{name} has gifted you a boon"
+msgstr "{name}あなたに恩恵を与えました"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",AFE695174AAFC7DAA8A9AF9F3B058D53"
+msgid "{name} has grown your dash"
+msgstr "{name}あなたのダッシュを成長させました"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",8DF3D7734BC475CC5E3A8C86144850FE"
+msgid "{name} has healed you"
+msgstr "{name}あなたを癒しました"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",A005E0B048B02ACAB58D97B4A21C0ED5"
+msgid "{name} has replenished your dashes"
+msgstr "{name}ダッシュを補充しました"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",1CEB7A2B4AC3B2039D86219D6CD2B68C"
+msgid "{name} has shrunk your dash"
+msgstr "{name}ダッシュが縮小されました"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",AF6FB1A94749AEAFAFC07E946C6B7A92"
+msgid "{name} has slowed you"
+msgstr "{name}あなたを遅らせた"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",AC5941014FDE99401498A1936C9E6B50"
+msgid "{name} has spawned orbs"
+msgstr "{name}オーブを生み出した"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",0589737046333990F67F1C8888DD73DA"
+msgid "{name} has swapped your weapons"
+msgstr "{name}武器を交換しました"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",5820267940EA8EBCCB2DE0BE2C192A88"
+msgid "{name} is exploding"
+msgstr "{name}爆発している"
+
+#: /Game/Twitch/TwitchChatSample.TwitchChatSample_C:ExecuteUbergraph_TwitchChatSample [Script Bytecode]
+msgctxt ",9E926DD042ACC32A3BC266A7565DB383"
+msgid "{name} stolen your dashes"
+msgstr "{name}あなたのダッシュを盗んだ"
